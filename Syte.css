@@ -1,0 +1,36 @@
+body {
+    background-image: url(images/rfgr.jpg);
+}
+
+a{
+    color:green;
+}
+
+div {
+    color:red;
+}
+
+#Bura {
+    color:#6e0478;
+    font-size: 35px;
+}
+
+#I {
+    color:red
+}
+
+.creators {
+    color: #041052;
+    padding: 10px;
+    margin: 10px;
+    background-color: grey;
+    border: 1px solid black;
+    border-radius: 100px;
+    opacity: 0.9;
+    box-shadow: 8px 8px 10px #47474a ;
+}
+
+.Hero_Time {
+    color: #ced102;
+    text-align: center;
+}
